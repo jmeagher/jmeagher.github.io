@@ -8,5 +8,5 @@ Other places you can find me:
 
 * [Mastodon](https://macaw.social/@jmeagher)
 * [Github](https://github.com/jmeagher)
-* [My Dog's Instagram](https://instagram.com/birdie_pup)
+* [My Dog's Instagram](https://instagram.com/birdie.pup)
 
