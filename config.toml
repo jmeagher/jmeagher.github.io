@@ -1,0 +1,4 @@
+baseURL = 'https://jmeagher.net/'
+languageCode = 'en-us'
+title = 'John Meagher Home Site'
+theme = 'black-and-light'
