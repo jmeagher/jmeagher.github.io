@@ -2,7 +2,7 @@
 title: "Complex Counts in Hive"
 date: 2012-03-28T22:58:30-06:00
 aliases:
-    - /blog/2012/3/28/complex-counts-in-hive.html
+    - /blog/2012/3/28/complex-counts-in-hive
 ---
 
 This came up on the Hive mailing list and I'm putting it here as a reminder to try it out. Here's how to do complex count statements to simplify queries.
