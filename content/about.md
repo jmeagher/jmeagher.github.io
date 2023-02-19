@@ -1,6 +1,6 @@
 ---
 title: "About me"
-date: 2023-02-18T16:29:13-06:00
+date: 2023-02-18T00:00:00-00:00
 ---
 I'll fill out more here later. 
 

@@ -1,6 +1,6 @@
 ---
 title: "Complex Counts in Hive"
-date: 2012-03-28T22:58:30-06:00
+date: 2012-03-28T00:00:00-00:00
 aliases:
     - /blog/2012/3/28/complex-counts-in-hive
 ---

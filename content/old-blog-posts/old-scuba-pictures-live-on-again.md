@@ -1,6 +1,6 @@
 ---
 title: "Old Scuba Pictures Live on Again"
-date: 2013-10-12T08:46:13-06:00
+date: 2013-10-12T00:00:00-00:00
 aliases:
     - /blog/2013/10/12/old-scuba-pictures-live-on-again
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Hive UDFs in Ruby and Other Languages"
-date: 2014-02-13T08:18:44-06:00
+date: 2014-02-13T00:00:00-00:00
 aliases:
     - /blog/2014/2/13/hive-udfs-in-ruby-and-other-languages
 ---
