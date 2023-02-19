@@ -3,6 +3,8 @@ title: "Hive UDFs in Ruby and Other Languages"
 date: 2014-02-13T00:00:00-00:00
 aliases:
     - /blog/2014/2/13/hive-udfs-in-ruby-and-other-languages
+    - /blog/2014/2/13/hive-udfs-in-ruby-and-other-languages/
+    - /blog/2014/2/13/hive-udfs-in-ruby-and-other-languages.html
 ---
 
 Apache Hive is a very powerful tool for processing data stored in Apache Hadoop. Structured and unstructured data can be accessed, processed, and manipulated using a SQL-like query language. This architecture allows anyone with reasonable SQL knowledge to write complex jobs with little to no knowledge of Hadoop, HDFS, and Hive.

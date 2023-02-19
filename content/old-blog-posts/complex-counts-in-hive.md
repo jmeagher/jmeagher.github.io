@@ -3,6 +3,8 @@ title: "Complex Counts in Hive"
 date: 2012-03-28T00:00:00-00:00
 aliases:
     - /blog/2012/3/28/complex-counts-in-hive
+    - /blog/2012/3/28/complex-counts-in-hive/
+    - /blog/2012/3/28/complex-counts-in-hive.html
 ---
 
 This came up on the Hive mailing list and I'm putting it here as a reminder to try it out. Here's how to do complex count statements to simplify queries.
