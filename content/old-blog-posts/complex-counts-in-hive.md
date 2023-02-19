@@ -1,6 +1,7 @@
 ---
 title: "Complex Counts in Hive"
 date: 2012-03-28T00:00:00-00:00
+tags: ["hive", "sql"]
 aliases:
     - /blog/2012/3/28/complex-counts-in-hive
     - /blog/2012/3/28/complex-counts-in-hive/

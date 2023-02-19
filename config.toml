@@ -1,20 +1,31 @@
 baseURL = 'https://jmeagher.net/'
 languageCode = 'en-us'
-title = 'John Meagher Home Site'
-author = 'John Meagher'
-theme = 'black-and-light'
+title = 'John Meagher'
 googleAnalytics = "G-WQ4T6XKQJQ"
+
+theme = 'beautifulhugo'
 
 
 [params]
   sitename = "John Meagher's Ramblings"
   disableWebFonts = false
   Description = "John Meagher's random thoughts"
+  dateFormat = "January 2006"
+  hideAuthor = true
+  logo = "images/Headshot Square.jpg"
 
 [[menu.main]]
     name = "About"
     url  = "/about"
+    weight = 2
 [[menu.main]]
-    name = "Projects"
-    url  = "https://github.com/jmeagher"
+    name = "Tags"
+    url = "tags"
+    weight = 3
 
+[Author]
+  name = "John Meagher"
+  github = "jmeagher"
+  mastodon = "macaw.social/@jmeagher"
+  linkedin = "jpmeagher"
+  twitter = "john_meagher"

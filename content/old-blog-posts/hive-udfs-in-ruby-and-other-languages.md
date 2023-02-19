@@ -1,6 +1,7 @@
 ---
 title: "Hive UDFs in Ruby and Other Languages"
 date: 2014-02-13T00:00:00-00:00
+tags: ["hive", "sql"]
 aliases:
     - /blog/2014/2/13/hive-udfs-in-ruby-and-other-languages
     - /blog/2014/2/13/hive-udfs-in-ruby-and-other-languages/
@@ -9,7 +10,9 @@ aliases:
 
 Apache Hive is a very powerful tool for processing data stored in Apache Hadoop. Structured and unstructured data can be accessed, processed, and manipulated using a SQL-like query language. This architecture allows anyone with reasonable SQL knowledge to write complex jobs with little to no knowledge of Hadoop, HDFS, and Hive.
 
-```
+<!--more--> 
+
+```SQL
 -- Create a summary of purchases by product and day
 SELECT day, product, count(*) as purchases, sum(revenue) as revenue, avg(revenue) as average_revenue_by_purchase
 FROM purchases
@@ -32,7 +35,7 @@ Java supports running code in other languages through the javax.script API. Our 
 
 This shows how it can be used to compute data that would normally be difficult to generate via SQL.
 
-```
+```SQL
 create temporary function scriptedUDF as 'com.livingsocial.hive.udf.ScriptedUDF';
 -- Gather complex data combining groups and individual rows without joins
  select person_id, purchase_data['time'], purchase_data['diff'],
