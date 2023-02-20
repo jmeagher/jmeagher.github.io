@@ -13,6 +13,7 @@ theme = 'beautifulhugo'
   dateFormat = "January 2006"
   hideAuthor = true
   logo = "images/Headshot Square.jpg"
+  favicon = "images/favicon.png"
 
 [[menu.main]]
     name = "About"
