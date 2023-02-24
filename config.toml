@@ -9,14 +9,14 @@ theme = 'beautifulhugo'
 [params]
   sitename = "John Meagher's Ramblings"
   disableWebFonts = false
-  Description = "John Meagher's random thoughts"
+  Description = "John Meagher's Random Thoughts"
   dateFormat = "January 2006"
   hideAuthor = true
   logo = "images/Headshot Square.jpg"
   favicon = "images/favicon.png"
 
 [[menu.main]]
-    name = "About"
+    name = "About Me"
     url  = "/about"
     weight = 2
 [[menu.main]]
