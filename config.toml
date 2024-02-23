@@ -12,12 +12,17 @@ theme = 'beautifulhugo'
   Description = "John Meagher's Random Thoughts"
   dateFormat = "January 2006"
   hideAuthor = true
-  logo = "images/Headshot Square.jpg"
+  logo = "images/HeadshotSquare.jpg"
   favicon = "images/favicon.png"
+  author.name = "John Meagher"
 
 [[menu.main]]
     name = "About Me"
     url  = "/about"
+    weight = 2
+[[menu.main]]
+    name = "Hire Me"
+    url  = "/resume"
     weight = 2
 [[menu.main]]
     name = "Tags"
@@ -25,7 +30,6 @@ theme = 'beautifulhugo'
     weight = 3
 
 [Author]
-  name = "John Meagher"
   github = "jmeagher"
   mastodon = "macaw.social/@jmeagher"
   linkedin = "jpmeagher"
