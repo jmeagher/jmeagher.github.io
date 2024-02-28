@@ -8,6 +8,7 @@ theme = 'beautifulhugo'
 
 [params]
   sitename = "John Meagher's Ramblings"
+  mainSections = ["old-blog-posts", "posts"]
   disableWebFonts = false
   Description = "John Meagher's Random Thoughts"
   dateFormat = "January 2006"
