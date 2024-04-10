@@ -2,6 +2,9 @@
 title: "About me"
 date: 2023-02-18T00:00:00-00:00
 tags: ["meta"]
+aliases:
+    - /about-me
+    - /about-me/
 ---
 
 I'm a long time software developer who doesn't post much here.
