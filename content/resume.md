@@ -5,13 +5,20 @@ tags: ["meta"]
 draft: false
 ---
 
-[Download PDF](../Resume.pdf) - [LinkedIn](https://www.linkedin.com/in/jpmeagher/)
+[LinkedIn](https://www.linkedin.com/in/jpmeagher/)
 
 # Objective
 
 Software Engineer and SRE with many years of experience in designing, building, and maintaining large scale distributed systems. Seeking a challenging role to utilize my diverse skills and experience in an innovative environment.
 
 # Work Experience
+
+
+## One.app - Jul 2024 - Now
+
+*Site Reliability Engineer, Remote from Dallas, TX*
+
+* Building observability pipeline
 
 ## Instacart - Jan 2018 - Feb 2024
 

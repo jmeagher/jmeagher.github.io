@@ -21,10 +21,10 @@ theme = 'beautifulhugo'
     name = "About Me"
     url  = "/about"
     weight = 2
-[[menu.main]]
-    name = "Hire Me"
-    url  = "/resume"
-    weight = 2
+# [[menu.main]]
+#     name = "Hire Me"
+#     url  = "/resume"
+#     weight = 2
 [[menu.main]]
     name = "Tags"
     url = "tags"

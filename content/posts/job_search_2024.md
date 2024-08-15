@@ -4,6 +4,12 @@ date: 2024-03-04T00:00:00-00:00
 tags: ["meta"]
 ---
 
+# Update on my job search
+
+I found something and am happily employed again. If you're looking to hire someone with experience and skills like mine please reach out. I have a lot of contacts with former coworkers who are still looking. 
+
+<!--more-->
+
 # End of an era and looking for what's next
 
 Last month, I bid farewell to my coworkers at Instacart after an amazing six-year journey. I was fortunate to witness the company's most significant period of growth and was consistently impressed by everyone's ability to adapt swiftly to a changing market. After taking a few weeks off, I am now ready to start the search for my next big adventure.
