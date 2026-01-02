@@ -2,9 +2,10 @@
 title: "Job Search"
 date: 2024-03-04T00:00:00-00:00
 tags: ["meta"]
+draft: true
 ---
 
-# Update on my job search
+# Update on my job search 2024
 
 I found something and am happily employed again. If you're looking to hire someone with experience and skills like mine please reach out. I have a lot of contacts with former coworkers who are still looking. 
 
