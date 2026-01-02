@@ -14,7 +14,7 @@ Software Engineer and SRE with many years of experience in designing, building, 
 # Work Experience
 
 
-## One.app - Jul 2024 - Now
+## OnePay - Jul 2024 - Now
 
 *Site Reliability Engineer, Remote from Dallas, TX*
 
