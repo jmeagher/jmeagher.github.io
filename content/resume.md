@@ -9,16 +9,23 @@ draft: false
 
 # Objective
 
-Software Engineer and SRE with many years of experience in designing, building, and maintaining large scale distributed systems. Seeking a challenging role to utilize my diverse skills and experience in an innovative environment.
+Senior Software Engineer and SRE with over a decade of experience designing, building, and operating large scale distributed systems, with recent focus on applying AI to improve incident response and developer workflows.
 
 # Work Experience
 
 
 ## OnePay - Jul 2024 - Now
 
-*Site Reliability Engineer, Remote from Dallas, TX*
+*Senior Site Reliability Engineer, Remote from Dallas, TX*
 
-* Building observability pipeline
+* Eliminated toil of biweekly manual service scale-ups with time-based HPA implementations to handle rapid load increases beyond what normal CPU HPA can handle. 
+* Built AI-assisted tools for on-call engineers to rapidly triage and investigate alerts including determining the cause and customer impact.
+* Served as Datadog design partner for Bits AI and its recommendations engine, shaping product direction and surfacing bugs pre-release.
+* Ran live internal AI training workshops reaching 100+ engineers on prompt engineering, AI-assisted development, and internal AI tooling.
+* Served as incident commander for high-severity, cross-team incidents including driving post-mortem action items to completion to improve resilience and stop repeated similar incidents.
+
+
+Skills used: Kubernetes, AWS EKS, ArgoCD, Datadog, AI/LLM tooling, Incident Management
 
 ## Instacart - Jan 2018 - Feb 2024
 
